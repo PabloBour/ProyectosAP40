@@ -11,7 +11,7 @@
        edad = edad -1 ;
        
    }
-   
+    
    console.log(edad)
    
    document.getElementById("edad").innerHTML = "Edad: " + edad + " años."
