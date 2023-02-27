@@ -17,7 +17,7 @@
    document.getElementById("edad").innerHTML = "Edad: " + edad + " años."
 
    
-   
+    
    
 const btnEstudios = document.getElementById("verEstudios");
 const btnCursos = document.getElementById("verCursos");
