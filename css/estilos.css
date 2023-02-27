@@ -7,7 +7,6 @@ body {
   background-color: #f1f1f1;
   position: relative;
   padding-bottom: 30px;
-  
 }
 
  
@@ -30,7 +29,6 @@ nav {
   background-color: #333;
   display: flex;
   justify-content: center;
-  
 }
 
 nav ul{
@@ -149,28 +147,25 @@ footer {
   overflow: hidden;
   cursor: pointer;
   transition: all .3s ease-out;
-  }
+}
   
-  .info-personal .boton-info:hover {
+.info-personal .boton-info:hover {
   width: 300px;
   }
   
   
-  .info-personal .boton-info i {  
+.info-personal .boton-info i {  
   font-size: 25px;
   line-height: 60px;    
-  }
+}
   
-  .info-personal .boton-info span {  
+.info-personal .boton-info span {  
   font-size: 20px;
   font-weight: 500;
   line-height: 60px;
   margin-left: 10px;
-  }
+}
   
-
-
-
 @media (max-width: 1050px) {
   nav, section, img, main, aside {
     width: 100%;
@@ -186,8 +181,6 @@ footer {
     padding-left: 30px;
     padding-bottom: 30px;
   }
-
-  
 
   form {
     padding-top: 0px;
